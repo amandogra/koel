@@ -1,4 +1,6 @@
-# koel [![Build Status](https://travis-ci.org/phanan/koel.svg?branch=master)](https://travis-ci.org/phanan/koel) [![OpenCollective](https://opencollective.com/koel/backers/badge.svg)](#backers) [![OpenCollective](https://opencollective.com/koel/sponsors/badge.svg)](#sponsors)
+# Krishna Kirtan
+This repository has the source code for the music app hosted at [Krishna Kirtan](http://krishnakirtan.com)
+The app is a fork of koel app [![Build Status](https://travis-ci.org/phanan/koel.svg?branch=master)](https://travis-ci.org/phanan/koel) [![OpenCollective](https://opencollective.com/koel/backers/badge.svg)](#backers) [![OpenCollective](https://opencollective.com/koel/sponsors/badge.svg)](#sponsors)
 
 ![Showcase](http://koel.phanan.net/dist/img/showcase.png?2)
 
